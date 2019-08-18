@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <title>Coming Soon</title>
+  </head>
+  <body>
+      <div class="come">
+        <h1>Logo</h1>
+        <h2> COMING SOON</h2>
+        <hr>
+        <div class="nmbr">
+          <p>35 Days left</p>
+          <h3>Powered by <a href="https://github.com/Sanjulapro"style="color:white">abc.CSS</a></h3>
+        </div>
+      </div>
+  </body>
+</html>

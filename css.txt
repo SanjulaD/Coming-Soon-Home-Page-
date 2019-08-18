@@ -1,0 +1,55 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+    background-image: url(forestbridge.jpg);
+    background-size: cover;
+    background-position:center;
+    min-height: 100%;
+}
+h1{
+  font-size: 22px;
+  color: white;
+  font-family: "Raleway",sans-serif;
+  padding: 10px 20px;
+}
+div h2{
+  font-size: 45px;
+  color: white;
+  font-family: "Raleway",sans-serif;
+  text-decoration: none;
+  text-align: center;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -100px;
+  margin-left: -200px;
+}
+hr{
+  position: fixed;
+  top: 57%;
+  left: 50.5%;
+  margin-top: -100px;
+  margin-left: -200px;
+  width: 20.5%;
+}
+P{
+  color: white;
+  font-family: "Raleway",sans-serif;
+  text-decoration: none;
+  text-align: center;
+  position: fixed;
+  top: 60%;
+  left:58%;
+  margin-top: -100px;
+  margin-left: -200px
+}
+h3{
+  color: white;
+  font-family: "Raleway",sans-serif;
+  font-size: 16px;
+  position: fixed;
+  top: 92%;
+  left: 2%;
+}
